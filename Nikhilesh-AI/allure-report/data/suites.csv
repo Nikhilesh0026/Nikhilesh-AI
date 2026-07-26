@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8480","Add all product into the cart @Regression","","2026-07-15","passed","2026-07-15","","TC_001_VerifyLogin.spec.js","",""
+"","5369","Verify tiltle @Smoke","","2026-07-15","passed","2026-07-15","","TC_002_VerifyTilte.spec.js","",""
+"","8770","Verify login @Smoke","","2026-07-15","passed","2026-07-15","","TC_001_VerifyLogin.spec.js","",""
+"","2496","Enter username @Smoke","","2026-07-15","passed","2026-07-15","","TC_001_VerifyLogin.spec.js","",""

@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"0e8edab19049733806ea7614374d8ce2","name":"TC_001_VerifyLogin.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"28b838acc6bf98d1063c92052a22ac22","name":"TC_002_VerifyTilte.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
